@@ -6,7 +6,6 @@
  1. На верхней панели найдите вкладку file -> new -> Project from Version Control...  
  2. В открывшемся окне, необходимо вставить в поле для ввода ссылку на репозиторий и нажать кнопку clone. Ссылку на репозиторий можно получить, нажав на кнопку Clone в вашем репозитории на https://github.com
 
-  start-git-project start-git-project-2
-start-git-project-3
+
 
  
